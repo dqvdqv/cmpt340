@@ -1,2 +1,2 @@
-HELLO scmpt340
+TESTcmpt340
 =======
